@@ -5,6 +5,7 @@ const babelPresetFlowVue = {
     require('@babel/plugin-transform-flow-strip-types')
   ]
 }
+111
 
 module.exports = {
   presets: [
