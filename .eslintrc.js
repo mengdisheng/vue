@@ -5,6 +5,7 @@ module.exports = {
     ecmaVersion: 2018,
     sourceType: 'module'
   },
+  222
   env: {
     es6: true,
     node: true,
